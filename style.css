@@ -1,0 +1,43 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px; 
+    background-color:lightsteelblue;
+   }
+.image1{
+    height: 200px;
+    width:200px;
+   
+}
+
+.image2{
+    height: 200px;
+    width:200px;
+    
+}
+
+.image3{
+    height: 180px;
+    width:180px;
+   
+}
+.image4{
+    height: 200px;
+    width:200px;
+    
+}
+.image5{
+    height: 200px;
+    width:200px;
+    
+}
+.image6{
+    height: 200px;
+    width:200px;
+    
+}
+.image7{
+    height: 200px;
+    width:200px;
+    
+}
